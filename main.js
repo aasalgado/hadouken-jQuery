@@ -17,7 +17,7 @@ $('#my-div img').mousedown(function() {
 })
 $('#my-div img').mousedown(function() {
     $('#my-div').append(
-    '<img class="demo-hadouken" src="http://i.imgur.com/oTyQRvX.gif">'
+    '<img class="demo-hadouken" src="http://i.imgur.com/oTyQRvX.gif" style="margin-bottom:100px">'
     );
 })
 $('#my-div img').mousedown(function() {
