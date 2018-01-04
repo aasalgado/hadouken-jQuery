@@ -1,5 +1,5 @@
-# hadouken-jQuery
-### Learning jQuery with Street Fighter and Hadoukens
+# Learning jQuery with Street Fighter and Hadoukens
+### JQuery project
 
 <img align="right" src="http://i.imgur.com/nTj3Fxx.gif">
 
